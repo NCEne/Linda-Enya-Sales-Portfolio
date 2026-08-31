@@ -1,4 +1,4 @@
-# [Your Name] — Sales Portfolio (website)
+# Linda Enya — Sales Portfolio (website)
 
 A plain **HTML / CSS / JS** portfolio site — the same stack most solo/freelance
 portfolio sites ship with, because it needs no build step, no framework, and
